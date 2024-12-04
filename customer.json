@@ -1,0 +1,16 @@
+[
+    {
+        "name": "bigger company",
+        "CEO": "Sitoshi chaimoto",
+        "NumberOfEmployees" : 3600,
+        "ratings": 3.6,
+        "salary":null
+    },
+    {
+        "name": "small companies",
+        "CEO": "Natosha chaibaridi",
+        "NumberOfEmployees": 4000,
+        "ratings":4.0,
+        "Salary": null
+    }
+]
