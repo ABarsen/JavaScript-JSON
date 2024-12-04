@@ -12,5 +12,12 @@
         "NumberOfEmployees": 4000,
         "ratings":4.0,
         "Salary": null
-    }
+    } ,
+    {
+        "name" : "medium companies",
+        "CEO": "mimi sitoshi",
+        "NumberOfEmployees" : 4200,
+        "ratings": 3.0,
+        "Salary": 3000
+        }
 ]
